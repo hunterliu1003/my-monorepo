@@ -1,5 +1,5 @@
 {
-  "name": "alpha",
+  "name": "hunter-beta",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "3211b806cdc0104a097a2c9aa0f6e4e037b1e1e0"
 }
