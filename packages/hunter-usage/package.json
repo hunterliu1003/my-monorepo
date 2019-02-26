@@ -1,6 +1,6 @@
 {
   "name": "hunter-usage",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hunter-alpha": "^0.0.3",
-    "hunter-beta": "^0.0.3"
+    "hunter-alpha": "^0.0.4",
+    "hunter-beta": "^0.0.4"
   },
   "gitHead": "a4c989a559a1fface736331e8cf7898c21e14da9"
 }
